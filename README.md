@@ -65,7 +65,19 @@ python main.py
 ```
 
 ---
+## 程式架構
 
+定義所有物體物體需要之運算規則後分別定義五個物體的細項
+
+---
+## 開發過程
+
+給gemini構想執行後修正錯誤
+
+---
+## 參考資料
+[llm連結](https://gemini.google.com/share/87454cacece2)
+---
 ## 📌 作者
-
+Pao Cheng Lai
 Chemical Engineering / Physics Numerical Simulation Project
